@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:support="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_baseline_help_outline_24"
+        android:title="Help"
+        />
+
+<!--     <item-->
+
+<!--         android:id="@+id/mShare"-->
+
+<!--         android:title="share"-->
+<!--         support:actionProviderClass="androidx.appcompat.widget.ShareActionProvider"-->
+<!--         android:icon="@drawable/ic_baseline_share_24"-->
+
+<!--         app:showAsAction="always" />-->
+    <item
+    android:id="@+id/clock"
+    android:icon="@drawable/ic_baseline_watch_later_24"
+        android:title="Stopwatch"
+    />
+
+ </menu>

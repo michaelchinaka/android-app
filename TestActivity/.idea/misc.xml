@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/acitivity_search.xml" value="0.18659420289855072" />
+        <entry key="app/src/main/res/layout/activity_expandable_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_ingredient_selector.xml" value="0.2759033203125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.18041237113402062" />
+        <entry key="app/src/main/res/layout/activity_recipe_detail.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_recipe_results.xml" value="0.12590579710144928" />
+        <entry key="app/src/main/res/layout/activity_shopping_list.xml" value="0.799383544921875" />
+        <entry key="app/src/main/res/layout/activity_web_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_expandable_view.xml" value="0.18659420289855072" />
+        <entry key="app/src/main/res/layout/fragment_ingredient_selector.xml" value="0.2936614990234374" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_shopping_list.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/settings_activity.xml" value="0.24510345458984367" />
+        <entry key="app/src/main/res/layout/shopping_item.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/single_food.xml" value="0.2936614990234374" />
+        <entry key="app/src/main/res/layout/single_ingredient_selector.xml" value="0.2868972778320314" />
+        <entry key="app/src/main/res/layout/single_recipe.xml" value="0.44094696044921855" />
+        <entry key="app/src/main/res/layout/tes_layout.xml" value="0.33971862792968754" />
+        <entry key="app/src/main/res/menu/menu_bar.xml" value="0.3199798583984375" />
+        <entry key="app/src/main/res/menu/nav_bar.xml" value="0.196875" />
+        <entry key="app/src/main/res/menu/share.xml" value="0.18575286865234378" />
+        <entry key="app/src/main/res/xml/root_preferences.xml" value="0.23852386474609374" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2936614990234374" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
