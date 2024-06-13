@@ -27,7 +27,8 @@ The Fridge Management App is an Android application designed to help users effic
 1. **Clone the Repository:**
    
    ```bash
-   git clone https://github.com/yourusername/fridge-management-app.git
+   git clone https://github.com/michaelchinaka/android-app.git
+   
 
 3. **Open in Android Studio:**
 
