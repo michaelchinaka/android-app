@@ -117,7 +117,7 @@ public class SearchActivity extends AppCompatActivity{
         arrayList.clear();
         RequestQueue requestQueue;
         requestQueue = Volley.newRequestQueue(this);
-        String url = "https://api.spoonacular.com/food/ingredients/search?query=" + query + "&number=8&apiKey=bde5a5b3c824476bbc24aca5e61beb25";
+        String url = "https://api.spoonacular.com/food/ingredients/search?query=" + query + "&number=8&apiKey=InsertYourApiKey";
         JsonObjectRequest jsonArrayRequest = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
             @Override
             public void onResponse(JSONObject response) {

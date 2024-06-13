@@ -162,9 +162,9 @@ public class RecipeDetailActivity extends AppCompatActivity {
 
         RequestQueue requestQueue;
         requestQueue = Volley.newRequestQueue(this);
-        String url = "https://api.spoonacular.com/recipes/716429/information?includeNutrition=false&apiKey=bde5a5b3c824476bbc24aca5e61beb25";
+        String url = "https://api.spoonacular.com/recipes/716429/information?includeNutrition=false&apiKey=InsertYourApiKey";
 
-        //String url = "https://api.spoonacular.com/recipes/" + id + "/information?includeNutrition=false&apiKey=bde5a5b3c824476bbc24aca5e61beb25";
+        //String url = "https://api.spoonacular.com/recipes/" + id + "/information?includeNutrition=false&apiKey=InsertYourApiKey";
         JsonObjectRequest jsonArrayRequest = new JsonObjectRequest(Request.Method.GET, url, null, new Response.Listener<JSONObject>() {
             @Override
             public void onResponse(JSONObject response) {

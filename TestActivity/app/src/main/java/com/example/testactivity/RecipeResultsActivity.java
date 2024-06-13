@@ -113,7 +113,7 @@ public class RecipeResultsActivity extends AppCompatActivity {
 
         RequestQueue requestQueue;
         requestQueue = Volley.newRequestQueue(this);
-        String url = "https://api.spoonacular.com/recipes/findByIngredients?ingredients=" + query + "&number=2&apiKey=bde5a5b3c824476bbc24aca5e61beb25";
+        String url = "https://api.spoonacular.com/recipes/findByIngredients?ingredients=" + query + "&number=2&apiKey=InsertYourApiKey";
         JsonArrayRequest jsonArrayRequest = new JsonArrayRequest(Request.Method.GET, url, null, new Response.Listener<JSONArray>() {
             @Override
             public void onResponse(JSONArray response) {
